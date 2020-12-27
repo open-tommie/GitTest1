@@ -1,6 +1,11 @@
 # for LTspice
 #
 #
-*.asc text
+* text=auto
+
+*.asc text diff=astextplain
 *.t text
+
+*.gitattributes text
+.gitignore text
 #EOF
