@@ -6,5 +6,6 @@
 *.log
 *.net
 *.raw
+*.fft
 
 #EOF
