@@ -1,12 +1,10 @@
 # for LTspice
-# 漢字テスト
-# 漢字追加
 * text=auto
 
 #
 #
 #*.asc text eol=crlf encoding=utf-8
-#    .asc��text�ɂ���ƕ�����������̂Ńo�C�i�������̂܂܂ɂ��Ă����B
+#    .ascをtextにすると文字化けするのでバイナリ扱いのままにしておく。
 #
 .asc bin
 

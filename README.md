@@ -1,3 +1,3 @@
 # LTspice test
-Š¿ŽšƒeƒXƒg‚P
+UTF8æ¼¢å­—ãƒ†ã‚¹ãƒˆ
 
