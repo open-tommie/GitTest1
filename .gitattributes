@@ -6,6 +6,6 @@
 *.asc text diff=astextplain
 *.t text
 
-*.gitattributes text
+.gitattributes text
 .gitignore text
 #EOF
