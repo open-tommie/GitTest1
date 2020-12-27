@@ -1,6 +1,6 @@
 # for LTspice
 # 漢字テスト
-#
+# 漢字追加
 * text=auto
 
 *.asc text eol=crlf encoding=utf-8
