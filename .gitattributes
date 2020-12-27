@@ -1,5 +1,5 @@
 # for LTspice
 #
 #
-*.asc text
+*.asc text eol=crlf
 #EOF
