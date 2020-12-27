@@ -3,7 +3,12 @@
 #
 * text=auto
 
-*.asc text eol=crlf encoding=utf-8
+#
+#
+#*.asc text eol=crlf encoding=utf-8
+#    .ascをtextにすると文字化けするのでバイナリ扱いのままにしておく。
+#
+.asc bin
 
 .gitattributes text
 .gitignore text
