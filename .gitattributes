@@ -3,8 +3,7 @@
 #
 * text=auto
 
-*.asc text eol=crlf
-*.t text
+*.asc text eol=crlf encoding=utf-8
 
 .gitattributes text
 .gitignore text
