@@ -3,7 +3,7 @@
 #
 * text=auto
 
-*.asc text diff=astextplain
+*.asc text eol=crlf diff=astextplain
 *.t text
 
 .gitattributes text
